@@ -4,7 +4,7 @@ Integrantes
 * Claudio Jimenez - Rol: 202273587-2
 * Lucas Morrison - Rol:
 * Iben Muñoz - Rol:
-* Rafael Baeza - Rol:
+* Rafael Baeza - Rol: 202204598-1
 *  **Tutor**: Rodrigo Ramirez
 
 ## Wiki
